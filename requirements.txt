@@ -1,0 +1,7 @@
+aiohttp
+faker
+flask
+user-agent
+ssl
+hashlib
+uuid
